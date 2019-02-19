@@ -1,0 +1,19 @@
+{
+  "name": "web-watermark",
+  "version": "1.0.0",
+  "description": "纯JS实现的水印库，支持移动端、pc端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saberization/web-watermark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saberization/web-watermark/issues"
+  },
+  "homepage": "https://github.com/Saberization/web-watermark#readme"
+}
