@@ -1,5 +1,15 @@
 # WaterMark 给网页添加水印
 
+### 使用场景
+
+需要在页面中生成水印需求中使用
+
+### 实例展示
+
+![](https://s2.ax1x.com/2019/02/20/k2CHA0.png)
+
+[在线预览](https://htmlpreview.github.io/?https://github.com/Saberization/web-watermark/blob/master/showcase.html)
+
 ### 引入文件
 
 ```
